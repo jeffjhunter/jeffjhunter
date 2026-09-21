@@ -2,95 +2,71 @@
 
 <img src="https://raw.githubusercontent.com/jeffjhunter/jeffjhunter/main/assets/JJH-logo-white.png" alt="Jeff J Hunter" width="420" />
 
-### Humans + AI. That's the whole thesis.
+### I build AI Employees that do real work, alongside real people.
 
-<img src="https://komarev.com/ghpvc/?username=jeffjhunter&label=Profile%20views&color=F01B24&style=for-the-badge" alt="Profile views" />
+**Founder, AI Persona Method™ · Founder, VA Staffer · Open-source AI contributor**
 
-30 years in tech. IT coordinator → hospital network admin → Philips Electronics PM → entrepreneur. Pioneered remote workforces in the early 2000s, before it had a name. Now I build the systems and AI Employees that let regular operators outwork teams 10× their size — and I teach people how to do the same before the next wave of layoffs hits them.
-
-I refuse to let this technology eliminate human potential. Not without a fight.
-
-[![AI Money Group](https://img.shields.io/badge/Join%20AI%20Money%20Group-F01B24?style=for-the-badge&logoColor=white)](https://aimoneygroup.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-TheTip.ai-000000?style=for-the-badge)](https://thetip.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffjhunter)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeffjhunter)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jhunter101)
-[![Site](https://img.shields.io/badge/jeffjhunter.com-F01B24?style=for-the-badge)](https://jeffjhunter.com)
+[![Claude Community](https://img.shields.io/badge/Claude_Community-Join_1.7M%2B-D97757?style=for-the-badge)](https://www.facebook.com/groups/claudecommunity)
+[![TheTip.ai](https://img.shields.io/badge/TheTip.ai-Free_AI_Newsletter-111111?style=for-the-badge)](https://thetip.ai)
+[![Website](https://img.shields.io/badge/JeffJHunter.com-See_the_Work-F01B24?style=for-the-badge)](https://jeffjhunter.com)
 
 </div>
 
 ---
 
-## 🦞 What I'm Building
+## Humans + AI
 
-**[AI Persona Method](https://aipersonamethod.com)** · *the methodology* — A repeatable framework for spinning up AI Employees that handle real production work: marketing, sales, support, content, research. Taught via the [course](https://course.aipersonamethod.com) and credentialed via the [AI Certified Consultant program](https://app.aicertifiedconsultant.com) (AICC + AAICC, 160+ certified practitioners).
+I train humans to run AI, and I deploy Agentic AI Personas that run alongside them.
 
-**[VA Staffer](https://vastaffer.com)** · *the operating arm* — Founded 2014. AI + human Executive Assistants for founders escaping operational chaos. The future of work isn't AI *or* people. It's both.
+After 30 years in tech and building VA Staffer into an AI-augmented operation, I created the **AI Persona Method™**: a system for deploying AI Employees with a defined role, memory, tools, workflows, and a human escalation path.
 
-**[AI Persona OS](https://os.aipersonamethod.com)** · *infrastructure* — The complete OS for AI agents. Persistent memory, security, heartbeat monitoring, growth loops. Free on ClawHub.
+The thesis is simple: **AI executes. Humans decide.**
 
-**[AIMeet.live](https://aimeet.live)** · *AI in your meetings* — A trained AI Persona that joins your Zoom / Meet / Teams calls with your cloned voice. Listens, takes notes, speaks when addressed. Currently in alpha — 50 founding seats, prices locked for life.
+- **100+ AI solutions shipped** for my companies and clients
+- **100+ person team** at VA Staffer
+- Creator of the **AI Persona Method™** and **AI Certified Consultant** program
+- Building in public across agent infrastructure, orchestration, and production workflows
 
-**[AI Project Scoper](https://aiprojectscoper.com)** · *plan before you prompt* — AI-guided interview that turns a rough idea into a clean `CLAUDE.md` / `AGENTS.md` scaffold. Works with Claude Code + Codex.
-
-**[ai.vastaffer.com](https://ai.vastaffer.com)** · *proof in production* — A working blog **written and maintained entirely by Beau, one of my deployed AI Employees**. Real shipped pages, not theory.
-
----
-
-## 🛠️ OpenClaw Contributor
-
-I'm a contributor to [openclaw/openclaw](https://github.com/openclaw/openclaw) — the AI agent that's breaking the internet.
-
-![OpenClaw stars](https://img.shields.io/github/stars/openclaw/openclaw?style=for-the-badge&color=F01B24&label=OpenClaw%20Stars)
-
-Recent merged PRs:
-
-- [#80609 Add browser and tool profile quick settings](https://github.com/openclaw/openclaw/pull/80609) — surfaces the operator decisions that used to require editing config files
-- [#79877 [codex] Fix Codex app-server OAuth harness auth](https://github.com/openclaw/openclaw/pull/79877) — ChatGPT-subscription auth without API keys
-
-My products plug into OpenClaw. AI Money Group members get a dedicated OpenClaw playbook + setup guide.
+[Read the Humans + AI manifesto →](https://jeffjhunter.com/manifesto)
 
 ---
 
-## 💰 The Main Offer
+## What I'm shipping
 
-> ### *"Stop Whatever You're Doing and Get Whatever Program Jeff's Offering You."*
-> **— Anik Singal**, 9-figures in online sales, founder of Lurn.com
-
-[**AI Money Group**](https://aimoneygroup.com) is where I teach people how to turn AI skills into **$1K–$10K/mo** — even if they're starting from zero. Monthly group calls, "Your First $1K with AI" track, live Zero-to-Product masterclasses, the OpenClaw Money-Making Playbook, Sora 2 + Nano Banana prompt libraries, and the daily TheTip.ai newsletter.
-
-$49/mo on Skool. Other groups teach AI. We teach you how to make money with it.
-
-### → [Take the 60-second quiz](https://aimoneygroup.com) — get a personalized AI business idea + 7-day launch plan.
-
----
-
-## 🧰 Stack
-
-| AI & Agents | Languages | Infra & Ops |
+| Project | What it does | Proof |
 | --- | --- | --- |
-| ![OpenClaw](https://img.shields.io/badge/OpenClaw-ef4b58?style=flat&logoColor=white) ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white) ![NVIDIA](https://img.shields.io/badge/DGX%20Spark-76B900?style=flat&logo=nvidia&logoColor=white) |
-| ![MCP](https://img.shields.io/badge/MCP-F01B24?style=flat) ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
-
-*Philosophy: lifelong Star Trek fan, building toward Commander Data — AI that works **with** humans, not over them.*
-
----
-
-## 📊 Shipping
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffjhunter&theme=react-dark&hide_border=true&bg_color=00000000&color=ffffff&line=F01B24&point=ffffff&area=true" />
-
-</div>
+| **[AI Persona OS](https://github.com/jeffjhunter/ai-persona-os)** | An operating system for persistent AI agents: memory, security, monitoring, and growth loops. | Public TypeScript repo |
+| **[Claude Code Smart Orchestrator](https://github.com/jeffjhunter/claude-code-smart-orchestrator)** | Evidence-backed routing across Claude Code agents, with independent validation. | Public Python repo · MIT |
+| **[Codex Model Router Optimization](https://github.com/jeffjhunter/codex-model-router-optimization)** | Risk-tiered Codex workers, separate review, bounded retries, and reproducible evidence. | Public Python repo · MIT |
+| **[OpenClaw 2026.5+ Recovery Runbook](https://github.com/jeffjhunter/openclaw-2026.5-update-reinstall)** | A field-tested clean reinstall path that preserves agent memory and session history. | 17 stars · 4 forks · MIT |
 
 ---
 
+## Open-source receipts
+
+I contribute where agent infrastructure meets real operator friction.
+
+- **[openclaw/openclaw #80609](https://github.com/openclaw/openclaw/pull/80609)** — merged: browser and tool profile quick settings
+- **[openclaw/openclaw #79877](https://github.com/openclaw/openclaw/pull/79877)** — merged: Codex app-server OAuth harness fix
+- Public work across the OpenClaw, ZeroClaw, NemoClaw, Claude Code, and Codex ecosystems
+
+[See my open-source work →](https://jeffjhunter.com/openclaw)
+
+---
+
+## From framework to production
+
+- **[AI Persona Method](https://aipersonamethod.com)** — the method for building AI Employees that handle production work
+- **[VA Staffer](https://vastaffer.com)** — AI + human operators for founders and teams
+- **[Beau's public portfolio](https://ai.vastaffer.com)** — work shipped by a deployed AI Employee
+- **[AI Money Group](https://aimoneygroup.com)** — practical training for turning AI skills into offers and income
+
+---
+
 <div align="center">
 
-### AI is NOT the future. It's NOW.
+### Humans + AI. Synthesis, not replacement.
 
-**[→ Join AI Money Group](https://aimoneygroup.com)**
+[**Website**](https://jeffjhunter.com) · [**Claude Community**](https://www.facebook.com/groups/claudecommunity) · [**TheTip.ai**](https://thetip.ai) · [**LinkedIn**](https://linkedin.com/in/jeffjhunter)
 
 </div>
